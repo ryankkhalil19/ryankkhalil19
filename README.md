@@ -1,21 +1,14 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-Hi! My name is Ryan Khalil
-====================================================================================================================================
+# Ryan Khalil
 
-Computer Engineering Student | Real-Time ML & Embedded Systems | Edge AI
-------------------------------------------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Computer+Engineering+%40+SDSU;SWE+Intern+%40+EchoStar;Founder+of+Khalisthenics;Edge+ML+%26+Embedded+Systems)](https://git.io/typing-svg)
 
-I’m a Computer Engineering student at San Diego State University focused on real-time machine learning systems, embedded software, and performance-critical pipelines.
-
-I am passionate about build edge-deployed ML systems that run at real-time speeds. My work centers on low-latencying inference, sensor-integrated applications, and GPU-accelerated computer vision on mobile and embedded devices.
-
-I’m currently the founder of Khalisthenics, an AI-powered fitness coach that processes 30+ FPS camera streams on-device using MediaPipe, fusing vision data with motion sensors to deliver biomechanical analysis with deterministic latency. You can join the 100+ users embarking on their fitness journies by downloading on the App Store today!
+I’m Ryan Khalil, a Computer Engineering senior at San Diego State University. I’m the creator of Khalisthenics, Your Personal Pocket Coach, an mobile AI-powered fitness coach app. Beyond Khalisthenics, I've worked on drone communications at Hughes Network Systems and gyroscopic control at UCSD MAE.
 
 * 🌍  I'm based in San Diego, CA (U.S. Citizen)
 * ✉️  You can contact me at [ryankkhalil19@gmail.com](mailto:ryankkhalil19@gmail.com)
 * 🚀  I'm currently working on [Khalisthenics | Real-Time Edge ML Fitness App](http://khalisthenics.app)
 * 🧠  I'm currently learning kernel development
-* 👥  I'm looking to collaborate on Embedded or edge AI projects
+* 👥  I'm looking to collaborate on edge AI projects
 * 😲  Fun Fact: I can do a front lever
 
 <p align="left">
