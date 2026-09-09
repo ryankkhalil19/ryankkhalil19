@@ -1,6 +1,6 @@
 # Hi! I'm Ryan Khalil
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Computer+Engineering+%40+SDSU;SWE+Intern+%40+EchoStar;Founder+of+Khalisthenics;Edge+ML+%26+Embedded+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=600&color=FFFFFF&center=false&vCenter=true&width=700&lines=Computer+Engineering+%40+SDSU;SWE+Intern+%40+EchoStar;Founder+of+Khalisthenics)](https://git.io/typing-svg)
 
 I’m Ryan Khalil, a Computer Engineering senior at San Diego State University. I’m the creator of Khalisthenics, an mobile AI-powered fitness coach app. Beyond Khalisthenics, I've worked on drone communications at Hughes Network Systems and gyroscopic control at UCSD MAE.
 
